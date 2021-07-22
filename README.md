@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dominik
 - 👀 I’m interested in FrontEnd technologies.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js / Next.js
 - 💞️ I’m looking to collaborate on any platform.
 - 📫 How to reach me [Linkedin dgrudnik](https://www.linkedin.com/in/dominik-grudnik-426759212/)
 - 😄 Pronouns: He / Him
